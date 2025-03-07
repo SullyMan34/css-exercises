@@ -1,9 +1,27 @@
 /*style.css*/
 
 /*CLASSES*/
-p {
+/*
+    MY GRADE (3/4 in css)
+    Learning from my mistakes here.
+    First, you have p as it's own class. Probably not a good idea. 
+    The instructions were hinting at a first class name of "odd". Change this. 
+    In odd, you just didn't know that Verdana could be used without quotes, 
+    but I think generally: no spaces = no quotes needed.
+
+    Second, similar-font works! (+1)
+
+    Third, both IDs are correct (+2)
+
+    Overall, the html side was correct. It was only adjusted due to the addition
+    of the "odd" class here, which would have added an additional class with space on
+    Line 3. Give it a (4/5)
+
+    Final score: 7/10 (70%). But we learned from our mistakes!
+*/
+.odd {
     background-color:rgb(255, 182, 193);
-    font-family: 'Verdana','DejaVu Sans',sans-serif;
+    font-family: Verdana,'DejaVu Sans',sans-serif;
 }
 
 .similar-font{
