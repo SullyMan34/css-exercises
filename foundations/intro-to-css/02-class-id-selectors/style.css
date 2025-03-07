@@ -1,14 +1,22 @@
 /*style.css*/
 
+/*CLASSES*/
 p {
     background-color:rgb(255, 182, 193);
     font-family: 'Verdana','DejaVu Sans',sans-serif;
 }
 
+.similar-font{
+    font-size: 24px;
+}
+
+/*IDs*/
 #line-2 {
     color:blue;
     font-size: 36px
 }
-#line-3{
-    font-size: 24px;
+
+#line-4{
+    background-color: rgb(144, 238, 144);
+    font-weight: bold
 }
