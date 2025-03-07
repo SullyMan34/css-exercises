@@ -4,3 +4,8 @@ p {
     color:rgb(255, 182, 193);
     font-family: 'Verdana','DejaVu Sans',sans-serif;
 }
+
+#line-2 {
+    color:blue;
+    font-size: 32px
+}
