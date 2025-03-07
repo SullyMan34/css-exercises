@@ -7,5 +7,8 @@ p {
 
 #line-2 {
     color:blue;
-    font-size: 32px
+    font-size: 36px
+}
+#line-3{
+    font-size: 24px;
 }
