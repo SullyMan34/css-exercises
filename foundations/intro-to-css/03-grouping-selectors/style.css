@@ -1,7 +1,7 @@
 /*style.css*/
 
 /*CLASSES*/
-.buttons {
+.button-1,.button-2 {
     font-size: 28px;
     font-family: Helvetica,'Times New Roman',sans-serif;
 }
@@ -14,3 +14,11 @@
 .button-2{
     background-color: #ffff00;
 }
+
+/*GRADING*/
+/*You did not need to create a third class to have the combined features.
+    This causes you to have to write out extra in the html which causes redundancy
+    Change .buttons class to just .button-1, .button-2 and then remove the 
+    .buttons call in the html and this will be fixed.
+    Grade = (3/4) 75%
+*/
