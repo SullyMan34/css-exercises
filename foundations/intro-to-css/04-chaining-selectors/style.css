@@ -1,18 +1,17 @@
 /* Add CSS Styling */
 
 /*CLASSES*/
-.avatar {
+.avatar .proportional{
+    width: 300px;
+    height: auto;
+}
 
+.avatar .distorted{
+    width: 200px;
+    height: 400px;
 }
 
 .original{
-
-}
-
-.distorted{
-
-}
-
-.proportional{
-    
+    width:auto;
+    height:auto
 }
